@@ -1,0 +1,9 @@
+<Project>
+	<PropertyGroup>
+	<TargetFramework>net6.0</TargetFramework>
+	<Version>0.0.1</Version>
+	<Company>SICP</Company>
+	<Copyright>Copyright (c) SICP</Copyright>
+	<LangVersion>10</LangVersion>
+	</PropertyGroup>
+</Project>
