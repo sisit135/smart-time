@@ -4,11 +4,11 @@
 
 **Links:**
 
-[กลุ่มไลน์]()
-
 [เอกสาร](https://1drv.ms/f/s!AtKx-CQIOZgigdl63O22WuDOluoLzg)
 
-[ดีสคอร์ด](https://discord.gg/P7AStcdZGt) ![Discord Shield](https://discordapp.com/api/guilds/986609909233750076/widget.png?style=shield)
+[ดีสคอร์ด](https://discord.gg/CPwmUJB9c9) ![Discord Shield](https://discordapp.com/api/guilds/1036936637353046046/widget.png?style=shield)
+
+[ดีสคอร์ด SICP](https://discord.gg/P7AStcdZGt) ![Discord Shield](https://discordapp.com/api/guilds/986609909233750076/widget.png?style=shield)
 
 [เป้าหมายการพัฒนาในอนาคต](https://trello.com/b/Ey8l51s7/smart-time)
 

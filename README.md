@@ -4,11 +4,11 @@ A convenient smart student time tracker system.
 
 **Links:**
 
-[Line (help & support)]()
-
 [Documents](https://1drv.ms/f/s!AtKx-CQIOZgigdl63O22WuDOluoLzg)
 
-[Discord](https://discord.gg/P7AStcdZGt) ![Discord Shield](https://discordapp.com/api/guilds/986609909233750076/widget.png?style=shield)
+[Discord](https://discord.gg/CPwmUJB9c9) ![Discord Shield](https://discordapp.com/api/guilds/1036936637353046046/widget.png?style=shield)
+
+[Discord SICP](https://discord.gg/P7AStcdZGt) ![Discord Shield](https://discordapp.com/api/guilds/986609909233750076/widget.png?style=shield)
 
 [Roadmap](https://trello.com/b/Ey8l51s7/smart-time)
 
@@ -50,11 +50,11 @@ Or alternatively, open in Visual studio then hit F5.
 And enjoy.
 
 ## 📐 Desktop app UI design and implemention
-Desktop app is writen in [C#10](https://www.blognone.com/node/125746) and dotnet 6.0 by me (SN).
+Desktop app is writen in [C# 10](https://www.blognone.com/node/125746) and dotnet 6.0 by me (SN).
 
-illustration,Renders and Logo using [adobe software](https://en.wikipedia.org/wiki/Adobe_Inc.#Products) by [JonathanFake](https://github.com/JonathanFake)
+Illustration, 3D renders and logo using [adobe software](https://en.wikipedia.org/wiki/Adobe_Inc.#Products) by [JonathanFake](https://github.com/JonathanFake)
 
 ### Technologies
-UI is designed with [Material Design](https://material.io/design).
+UI is designed under [Material Design](https://material.io/design) design language.
 
 The application is implemented under [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel), IOC, and [DI](https://en.wikipedia.org/wiki/Dependency_injection#C#) pattern.
