@@ -1,0 +1,1 @@
+T:System.Windows.MessageBox;Don't use WPF default message box
