@@ -16,7 +16,7 @@ A convenient smart student time tracker system.
 
 
 ## History and intro
-Smart time is a program in Windows PC that will help with issuing a time tracker for
+Smart time is a platform in Windows PC that will help with issuing a time tracker for
 students to go out during the class time it also has other useful features such as
 auto sync which will automatically sync students who have permission as a list to
 every computer with this program.
