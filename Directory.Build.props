@@ -1,6 +1,6 @@
 <Project>
 	<PropertyGroup>
-		<TargetFramework>net6.0</TargetFramework>
+		<TargetFramework>net7.0</TargetFramework>
 		<Version>0.0.1</Version>
 		<Company>SN (SICP)</Company>
 		<Copyright>Open source by SICP</Copyright>
