@@ -1,5 +1,5 @@
 # Smart Time ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-<img align="right" width="160px" height="160px" src="/images/smart time main.png">
+<img align="right" width="160px" height="160px" src="/images/smarttime 2023 edge extended.png">
 A convenient smart student time tracker system.
 
 **Links:**
